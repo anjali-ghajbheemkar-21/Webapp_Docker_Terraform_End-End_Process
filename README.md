@@ -1,7 +1,6 @@
 # Basic Template Structure & Working
 [![License](https://img.shields.io/github/license/cicirello/pyaction)](https://github.com/cicirello/pyaction/blob/master/LICENSE)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/cicirello/pyaction?logo=github)](https://github.com/cicirello/pyaction/releases)
-[![pipeline status](https://gitlab.com/rachamallavarun1995/ -website-dockerised-application/badges/main/pipeline.svg)](https://gitlab.com/rachamallavarun1995/ -website-dockerised-application/-/commits/main)
 
 # AWS IAM USER
     * For this we mainly used two different policies for two different users.
